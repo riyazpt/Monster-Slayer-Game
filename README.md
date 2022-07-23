@@ -7,3 +7,4 @@ Monster Slayer Game Using Vue
 1.  Clone GitHub repo for this project locally
 2.  change directory to project folder
 3.  Click index.html
+![](https://github.com/riyazpt/Monster-Slayer-Game/blob/main/images/monster-slayer.png)
